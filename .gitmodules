@@ -1,0 +1,19 @@
+[submodule "emmit-vim"]
+    path = vim/bundle/emmet-vim
+    url = https://github.com/mattn/emmet-vim
+
+[submodule "lightline.vim"]
+    path = vim/bundle/lightline.vim
+    url = https://github.com/itchyny/lightline.vim
+
+[submodule "nerdtree"]
+    path = vim/bundle/nerdtree
+    url = https://github.com/scrooloose/nerdtree
+
+[submodule "vim-nerdtree-tabs"]
+    path = vim/bundle/vim-nerdtree-tabs
+    url = https://github.com/jistr/vim-nerdtree-tabs
+
+[submodule "screenFetch"]
+    path = bash.d/screenFetch
+    url = https://github.com/KittyKatt/screenFetch
