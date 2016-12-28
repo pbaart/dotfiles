@@ -1,0 +1,9 @@
+# some ls aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+alias apt-get='sudo apt-get'
+
+alias sudos='sudo -s'
+alias bashrc='vim ~/.bashrc && source ~/.bashrc'

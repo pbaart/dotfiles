@@ -1,0 +1,5 @@
+USER="username"
+PASS="password"
+#incinga servers
+SERVERS=("hostname.tld" "hostname2.tld")
+

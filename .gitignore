@@ -1,0 +1,4 @@
+#no configfiles
+*.cfg
+#no tempfiles
+#*.json
