@@ -1,7 +1,6 @@
-[submodule "emmit-vim"]
-    path = vim/bundle/emmet-vim
-    url = https://github.com/mattn/emmet-vim
-
+#[submodule "emmit-vim"]
+#    path = vim/bundle/emmet-vim
+#    url = https://github.com/mattn/emmet-vim
 [submodule "lightline.vim"]
     path = vim/bundle/lightline.vim
     url = https://github.com/itchyny/lightline.vim

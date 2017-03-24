@@ -2,3 +2,4 @@
 *.cfg
 #no tempfiles
 #*.json
+bash.d/custom.hosts
